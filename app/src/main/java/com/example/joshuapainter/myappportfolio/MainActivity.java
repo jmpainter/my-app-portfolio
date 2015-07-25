@@ -60,6 +60,8 @@ public class MainActivity extends ActionBarActivity {
         int buttonLeft = button.getLeft();
 
         Log.w("Button Top, Left", Integer.toString(buttonTop) + ", " + Integer.toString(buttonLeft));
+
+        //from developer.android.com api guide
         Context context = getApplicationContext();
         int duration = Toast.LENGTH_SHORT;
 
