@@ -22,37 +22,37 @@
         android:textSize="28sp" />
 
     <Button
-        android:id="@+id/button_1"
+        android:id="@+id/button_spotify_streamer_app"
         style="@style/Button"
         android:onClick="displayToast"
         android:text="@string/button_1" />
 
     <Button
-        android:id="@+id/button_2"
+        android:id="@+id/button_scores_app"
         style="@style/Button"
         android:onClick="displayToast"
         android:text="@string/button_2" />
 
     <Button
-        android:id="@+id/button_3"
+        android:id="@+id/button_library_app"
         style="@style/Button"
         android:onClick="displayToast"
         android:text="@string/button_3" />
 
     <Button
-        android:id="@+id/button_4"
+        android:id="@+id/button_build_it_bigger_app"
         style="@style/Button"
         android:onClick="displayToast"
         android:text="@string/button_4" />
 
     <Button
-        android:id="@+id/button_5"
+        android:id="@+id/button_xyz_reader_app"
         style="@style/Button"
         android:onClick="displayToast"
         android:text="@string/button_5" />
 
     <Button
-        android:id="@+id/button_6"
+        android:id="@+id/button_capstone_app"
         style="@style/Button.Red"
         android:onClick="displayToast"
         android:text="@string/button_6" />
